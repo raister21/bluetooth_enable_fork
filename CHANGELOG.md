@@ -1,3 +1,6 @@
+## 0.1.8
+* Dropped java version from 21 to 17
+
 ## 0.1.7
 * Update project dependencies
 
